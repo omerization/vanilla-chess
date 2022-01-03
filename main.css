@@ -1,0 +1,46 @@
+body {
+    background-color: #eeedeb;
+
+}
+
+#container {
+    display:flex;
+}
+
+#playerInfo{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size:30px;
+  line-height: 150px;
+  color:cadetblue;
+}
+
+.chessboard {
+    width: 640px;
+    height: 640px;
+    margin: 20px;
+    border: 25px solid rgb(100, 100, 100);
+}
+.black {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #999;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+}
+.white {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+}
+
+aside {
+    position: absolute;
+  }
