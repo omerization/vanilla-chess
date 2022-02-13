@@ -1,7 +1,6 @@
 # Chess Board with HTML5 Drag and Drop API
 
-This game is written for the Patika.dev Gusto&RemoteTeam sponsored NodeJs Bootcamp as homework of 2nd week. 
-As requested, only HTML5 Drag and Drop API and VanillaJS used.
+VanillaJs chess game
 
 ![alt text](https://raw.githubusercontent.com/Kodluyoruz-NodeJs-Bootcamp/week1-omerization/master/board.jpg?token=AHYJXP3TTYCJSNSAZQRZ6A3B2MFA4)
 
